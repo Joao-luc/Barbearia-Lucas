@@ -1,28 +1,42 @@
-#banner{
+#banner {
   width: 100%;
-  
+
 }
 
-.titulo-principal{
+.titulo-principal {
   padding-left: 20px;
 }
 
-.texto-centralizado{
+.texto-centralizado {
   text-align: center;
 }
 
-ul{
+.beneficios {
+  padding: 20px;
+  background-color: FFFFFF;
+}
+
+ul {
   display: inline-block;
   vertical-align: top;
   width: 20%;
   margin-right: 15%;
 }
 
-.imagem-beneficios{
- width: 50%; 
+.item {
+  font-style: italic;
 }
+
+.imagem-beneficios {
+  width: 50%;
+}
+
 p {
   text-align: center;
+}
+
+em strong{
+  color: red;
 }
 
 #missao {
