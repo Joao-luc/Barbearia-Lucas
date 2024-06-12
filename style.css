@@ -42,3 +42,16 @@ em strong{
 #missao {
   font-size: 28px;
 }
+
+.principal {
+  background: #CCCCCC;
+  padding: 30px;
+}
+
+.titulo-centralizado {
+  text-align: center;
+}
+
+#missao h2 {
+  font-size: 20px;
+}
