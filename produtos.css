@@ -124,33 +124,24 @@ footer{
   margin: 20px 0;
   }
 
-#banner{
+.banner {
   width: 100%;
 }
 
 .principal{
-  background-color: #CCCCCC;
-  padding: 30px;
+  background-color: #FEFEFE;
+  padding: 1em 0;
+  margin: 0 auto;
 }
 
 .titulo-principal{
-  padding-left: 20px;
-}
-
-.texto-centralizado{
   text-align: center;
+  font-size: 2em;
+  margin: 0 0 1em;
 }
 
-p{
-  text-align: center;
-}
-
-em strong{
-  color: red;
-}
-
-#missao{
-  font-size: 28px;
+.principal p{
+  margin: 0 0 1em;
 }
 
 .beneficios{
